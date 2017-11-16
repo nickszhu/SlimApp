@@ -1,0 +1,16 @@
+===Database Store
+
+== Table structure for table Customers
+
+|------
+|Column|Type|Null|Default
+|------
+|//**username**//|varchar(200)|No|
+|password|varchar(200)|No|
+== Dumping data for table Customers
+
+|mia|123
+|user1|wefe
+|user3|21345
+|wefewf|efwef
+|wefwe|fwefewf
